@@ -9,7 +9,7 @@
       "artist_name_en_us" : "Yoshihisa Masaki",
       "artist_name_ja_jp" : "正木祥悠",
       "theme_file_prefix" : "check_red",
-      "image_types" : ["cover", "header", "background", "floating_action_button"],
+      "image_types" : ["cover", "header", "background", "floatingActionButton"],
       "partition_index" : 0
     }
   ],
