@@ -1,0 +1,22 @@
+{
+  "new" : [
+    {
+      "id" : "F5FE811A-2832-4683-B2C6-4F1E3DBA9119",
+      "theme_name_en_us" : "Red check",
+      "theme_name_ja_jp" : "赤チェック",
+      "theme_description_en_us" : "Red check",
+      "theme_description_ja_jp" : "赤チェック",
+      "artist_name_en_us" : "Yoshihisa Masaki",
+      "artist_name_ja_jp" : "正木祥悠",
+      "theme_file_prefix" : "check_red",
+      "image_types" : ["cover", "header", "background", "floating_action_button"],
+      "partition_index" : 0
+    }
+  ],
+  "update" : [
+    
+  ],
+  "delete" : [
+    
+  ]
+}
