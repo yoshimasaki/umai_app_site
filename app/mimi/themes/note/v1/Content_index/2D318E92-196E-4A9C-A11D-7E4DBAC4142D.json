@@ -16,18 +16,18 @@
         "top" : 97,
         "bottom" : 81,
         "left" : 53,
-        "right" : 58,
+        "right" : 58
       },
       {
         "background_aspect_ratio" : "19.5:9",
         "top" : 126,
         "bottom" : 99,
         "left" : 53,
-        "right" : 58,
+        "right" : 58
       }
     ],
       "partition_index" : 0
-    },
+    }
   ],
   "update" : [
     

@@ -431,7 +431,7 @@
       "theme_file_prefix" : "dots_14",
       "image_types" : ["cover", "header", "background", "floating_action_button"],
       "partition_index" : 0
-    },
+    }
   ],
   "update" : [
     
