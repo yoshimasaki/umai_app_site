@@ -1,0 +1,38 @@
+{
+  "new" : [
+    {
+      "id" : "D61E596A-1FDE-4D94-93F8-7C4B043EB155",
+      "theme_name_en_us" : "Testing derivery new theme //Pink gradient",
+      "theme_name_ja_jp" : "ピンクのグラデーション",
+      "theme_description_en_us" : "Pink gradient",
+      "theme_description_ja_jp" : "ピンクのグラデーション",
+      "artist_name_en_us" : "Yoshihisa Masaki",
+      "artist_name_ja_jp" : "正木祥悠",
+      "theme_file_prefix" : "gradient_random_line_pink",
+      "image_types" : ["preview_background", "background"],
+      "text_area_margins" : [
+        {
+        "background_aspect_ratio" : "16:9",
+        "top" : 97,
+        "bottom" : 81,
+        "left" : 53,
+        "right" : 58,
+      },
+      {
+        "background_aspect_ratio" : "19.5:9",
+        "top" : 126,
+        "bottom" : 99,
+        "left" : 53,
+        "right" : 58,
+      }
+    ],
+      "partition_index" : 0
+    },
+  ],
+  "update" : [
+    
+  ],
+  "delete" : [
+    
+  ]
+}
