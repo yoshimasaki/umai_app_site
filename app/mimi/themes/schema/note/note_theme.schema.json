@@ -1,0 +1,109 @@
+{
+    "title": "JSON schema for mimi note theme object",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "required": [
+        "id",
+        "theme_name_en_us",
+        "theme_name_ja_jp",
+        "theme_description_en_us",
+        "theme_description_ja_jp",
+        "artist_name_en_us",
+        "artist_name_ja_jp",
+        "theme_file_prefix",
+        "image_types",
+        "text_area_margins",
+        "partition_index"
+    ],
+    "properties": {
+        "id": {
+            "description": "Theme uuid",
+            "type": "string"
+        },
+        "theme_name_en_us": {
+            "description": "Theme name for en_us",
+            "type": "string"
+        },
+        "theme_name_ja_jp": {
+            "description": "Theme name for ja_jp",
+            "type": "string"
+        },
+        "theme_description_en_us": {
+            "description": "Theme description for en_us",
+            "type": "string"
+        },
+        "theme_description_ja_jp": {
+            "description": "Theme description for ja_jp",
+            "type": "string"
+        },
+        "artist_name_en_us": {
+            "description": "Artist name for en_us",
+            "type": "string"
+        },
+        "artist_name_ja_jp": {
+            "description": "Artist name for ja_jp",
+            "type": "string"
+        },
+        "theme_file_prefix": {
+            "description": "Theme file prefix",
+            "type": "string"
+        },
+        "image_types": {
+            "description": "List of image type",
+            "type": "array",
+            "items": {
+                "type": "string",
+                "minItems": 1,
+                "enum": [
+                    "preview_background",
+                    "background"
+                ]
+            }
+        },
+        "text_area_margins": {
+            "description": "List of text area margin",
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "background_aspect_ratio",
+                    "top",
+                    "bottom",
+                    "left",
+                    "right"
+                ],
+                "properties": {
+                    "background_aspect_ratio": {
+                        "description": "Background image aspect ratio",
+                        "type": "string",
+                        "enum": [
+                            "16:9",
+                            "19.5:9"
+                        ]
+                    },
+                    "top": {
+                        "description": "Top margin",
+                        "type": "number"
+                    },
+                    "bottom": {
+                        "description": "Bottom margin",
+                        "type": "number"
+                    },
+                    "left": {
+                        "description": "Left margin",
+                        "type": "number"
+                    },
+                    "right": {
+                        "description": "Right margin",
+                        "type": "number"
+                    }
+                }
+            }
+        },
+        "partition_index": {
+            "description": "Partition index number",
+            "type": "integer",
+            "exclusiveMinimum": -1
+        }
+    }
+}

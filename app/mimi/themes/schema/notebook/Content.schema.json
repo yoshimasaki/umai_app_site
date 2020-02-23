@@ -1,0 +1,33 @@
+{
+    "title": "JSON schema for mimi notebook theme Content file",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "required": [
+        "new",
+        "update",
+        "delete"
+    ],
+    "properties": {
+        "new": {
+            "description": "List of new theme",
+            "type": "array",
+            "items": {
+                "$ref": "./notebook_theme.schema.json"
+            }
+        },
+        "update": {
+            "description": "List of update theme",
+            "type": "array",
+            "items": {
+                "$ref": "./notebook_theme.schema.json"
+            }
+        },
+        "delete": {
+            "description": "List of delete theme id",
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        }
+    }
+}

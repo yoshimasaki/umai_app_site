@@ -1,0 +1,19 @@
+{
+	"title": "JSON schema for mimi theme Content_index file",
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"type": "object",
+	"properties": {
+		"contents": {
+			"description": "List of content.json file name's uuid",
+			"type": "array",
+			"items": {
+				"type": "string"
+			},
+			"minItems": 1,
+			"uniqueItems": true
+		}
+	},
+	"required": [
+		"contents"
+	]
+}

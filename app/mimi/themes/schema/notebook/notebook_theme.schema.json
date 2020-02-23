@@ -1,0 +1,70 @@
+{
+    "title": "JSON schema for mimi notebook theme object",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "required": [
+        "id",
+        "theme_name_en_us",
+        "theme_name_ja_jp",
+        "theme_description_en_us",
+        "theme_description_ja_jp",
+        "artist_name_en_us",
+        "artist_name_ja_jp",
+        "theme_file_prefix",
+        "image_types",
+        "partition_index"
+    ],
+    "properties": {
+        "id": {
+            "description": "Theme uuid",
+            "type": "string"
+        },
+        "theme_name_en_us": {
+            "description": "Theme name for en_us",
+            "type": "string"
+        },
+        "theme_name_ja_jp": {
+            "description": "Theme name for ja_jp",
+            "type": "string"
+        },
+        "theme_description_en_us": {
+            "description": "Theme description for en_us",
+            "type": "string"
+        },
+        "theme_description_ja_jp": {
+            "description": "Theme description for ja_jp",
+            "type": "string"
+        },
+        "artist_name_en_us": {
+            "description": "Artist name for en_us",
+            "type": "string"
+        },
+        "artist_name_ja_jp": {
+            "description": "Artist name for ja_jp",
+            "type": "string"
+        },
+        "theme_file_prefix": {
+            "description": "Theme file prefix",
+            "type": "string"
+        },
+        "image_types": {
+            "description": "List of image type",
+            "type": "array",
+            "items": {
+                "type": "string",
+                "minItems": 1,
+                "enum": [
+                    "cover",
+                    "header",
+                    "background",
+                    "floating_action_button"
+                ]
+            }
+        },
+        "partition_index": {
+            "description": "Partition index number",
+            "type": "integer",
+            "exclusiveMinimum": -1
+        }
+    }
+}

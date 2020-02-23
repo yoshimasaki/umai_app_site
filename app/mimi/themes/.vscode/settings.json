@@ -1,0 +1,28 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "/Content_index.json"
+            ],
+            "url": "./schema/Content_index.schema.json"
+        },
+        {
+            "fileMatch": [
+                "/Content_sort.json"
+            ],
+            "url": "./schema/Content_sort.schema.json"
+        },
+        {
+            "fileMatch": [
+                "/note/*/Content_index/*.json"
+            ],
+            "url": "./schema/note/Content.schema.json"
+        },
+        {
+            "fileMatch": [
+                "/notebook/*/Content_index/*.json"
+            ],
+            "url": "./schema/notebook/Content.schema.json"
+        }
+    ]
+}
