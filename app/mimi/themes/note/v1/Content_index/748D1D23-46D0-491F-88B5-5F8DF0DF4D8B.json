@@ -1,0 +1,37 @@
+{
+    "new": [
+        {
+            "id": "3B24C4E8-E8AE-4F67-8416-3C7538E0C96E",
+            "theme_name_en_us": "Yellow x White dots",
+            "theme_name_ja_jp": "黄色 x 白ドット",
+            "theme_description_en_us": "Yellow x White dots",
+            "theme_description_ja_jp": "黄色 x 白ドット",
+            "artist_name_en_us": "Yoshihisa Masaki",
+            "artist_name_ja_jp": "正木祥悠",
+            "theme_file_prefix": "dots_6",
+            "image_types": [
+                "preview_background",
+                "background"
+            ],
+            "text_area_margins": [
+                {
+                    "background_aspect_ratio": "16:9",
+                    "top": 85,
+                    "bottom": 52,
+                    "left": 43,
+                    "right": 43
+                },
+                {
+                    "background_aspect_ratio": "19.5:9",
+                    "top": 119,
+                    "bottom": 66,
+                    "left": 43,
+                    "right": 43
+                }
+            ],
+            "partition_index": 0
+        }
+    ],
+    "update": [],
+    "delete": []
+}
