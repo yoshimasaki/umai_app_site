@@ -28,7 +28,6 @@
       "theme_file_prefix": "gradient_random_line_pink",
       "image_types": [
         "cover",
-        "header",
         "background",
         "floating_action_button"
       ],
@@ -45,7 +44,6 @@
       "theme_file_prefix": "gradient_random_line_cyan",
       "image_types": [
         "cover",
-        "header",
         "background",
         "floating_action_button"
       ],
@@ -62,7 +60,6 @@
       "theme_file_prefix": "gradient_random_line_yellow",
       "image_types": [
         "cover",
-        "header",
         "background",
         "floating_action_button"
       ],
@@ -79,7 +76,6 @@
       "theme_file_prefix": "gradient_random_line_red",
       "image_types": [
         "cover",
-        "header",
         "background",
         "floating_action_button"
       ],
@@ -96,7 +92,6 @@
       "theme_file_prefix": "gradient_random_line_green",
       "image_types": [
         "cover",
-        "header",
         "background",
         "floating_action_button"
       ],
@@ -113,7 +108,6 @@
       "theme_file_prefix": "gradient_random_line_purple",
       "image_types": [
         "cover",
-        "header",
         "background",
         "floating_action_button"
       ],
@@ -130,7 +124,6 @@
       "theme_file_prefix": "gradient_random_line_orange",
       "image_types": [
         "cover",
-        "header",
         "background",
         "floating_action_button"
       ],
@@ -147,7 +140,6 @@
       "theme_file_prefix": "gradient_random_line_pink_to_cyan",
       "image_types": [
         "cover",
-        "header",
         "background",
         "floating_action_button"
       ],
@@ -164,7 +156,6 @@
       "theme_file_prefix": "gradient_random_line_cyan_to_red",
       "image_types": [
         "cover",
-        "header",
         "background",
         "floating_action_button"
       ],
@@ -181,7 +172,6 @@
       "theme_file_prefix": "gradient_random_line_red_to_blue",
       "image_types": [
         "cover",
-        "header",
         "background",
         "floating_action_button"
       ],
@@ -198,7 +188,6 @@
       "theme_file_prefix": "gradient_random_line_yellow_to_purple",
       "image_types": [
         "cover",
-        "header",
         "background",
         "floating_action_button"
       ],
@@ -215,7 +204,6 @@
       "theme_file_prefix": "gradient_random_line_orange_to_purple",
       "image_types": [
         "cover",
-        "header",
         "background",
         "floating_action_button"
       ],
@@ -232,7 +220,6 @@
       "theme_file_prefix": "gradient_random_line_green_to_purple",
       "image_types": [
         "cover",
-        "header",
         "background",
         "floating_action_button"
       ],
@@ -249,7 +236,6 @@
       "theme_file_prefix": "gradient_random_line_purple_to_orange",
       "image_types": [
         "cover",
-        "header",
         "background",
         "floating_action_button"
       ],
