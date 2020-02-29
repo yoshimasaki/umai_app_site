@@ -32,6 +32,409 @@
       "partition_index": 0
     },
     {
+      "id": "F81C4A31-6020-40D1-8D6A-8D6383EB34B3",
+      "theme_name_en_us": "Cyan gradient",
+      "theme_name_ja_jp": "水色のグラデーション",
+      "theme_description_en_us": "Cyan gradient",
+      "theme_description_ja_jp": "水色のグラデーション",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "gradient_random_line_cyan",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 97,
+          "bottom": 81,
+          "left": 53,
+          "right": 58
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 126,
+          "bottom": 99,
+          "left": 53,
+          "right": 58
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "07DE32A2-0FA1-401D-8839-E1787FFA710E",
+      "theme_name_en_us": "Yellow gradient",
+      "theme_name_ja_jp": "黄色のグラデーション",
+      "theme_description_en_us": "Yellow gradient",
+      "theme_description_ja_jp": "黄色のグラデーション",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "gradient_random_line_yellow",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 97,
+          "bottom": 81,
+          "left": 53,
+          "right": 58
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 126,
+          "bottom": 99,
+          "left": 53,
+          "right": 58
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "974A339A-0CF2-4063-8DB8-053048580DD6",
+      "theme_name_en_us": "Red gradient",
+      "theme_name_ja_jp": "赤のグラデーション",
+      "theme_description_en_us": "Red gradient",
+      "theme_description_ja_jp": "赤のグラデーション",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "gradient_random_line_red",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 97,
+          "bottom": 81,
+          "left": 53,
+          "right": 58
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 126,
+          "bottom": 99,
+          "left": 53,
+          "right": 58
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "41366698-FA68-4751-A2C7-F22D311DE156",
+      "theme_name_en_us": "Green gradient",
+      "theme_name_ja_jp": "緑のグラデーション",
+      "theme_description_en_us": "Green gradient",
+      "theme_description_ja_jp": "緑のグラデーション",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "gradient_random_line_green",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 97,
+          "bottom": 81,
+          "left": 53,
+          "right": 58
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 126,
+          "bottom": 99,
+          "left": 53,
+          "right": 58
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "CDCCA4D6-7FDD-4C4C-A4E8-53B767931B53",
+      "theme_name_en_us": "Purple gradient",
+      "theme_name_ja_jp": "紫のグラデーション",
+      "theme_description_en_us": "Purple gradient",
+      "theme_description_ja_jp": "紫のグラデーション",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "gradient_random_line_purple",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 97,
+          "bottom": 81,
+          "left": 53,
+          "right": 58
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 126,
+          "bottom": 99,
+          "left": 53,
+          "right": 58
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "00A3DCF8-527A-4BCA-A571-EBB95346354F",
+      "theme_name_en_us": "Orange gradient",
+      "theme_name_ja_jp": "オレンジのグラデーション",
+      "theme_description_en_us": "Orange gradient",
+      "theme_description_ja_jp": "オレンジのグラデーション",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "gradient_random_line_orange",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 97,
+          "bottom": 81,
+          "left": 53,
+          "right": 58
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 126,
+          "bottom": 99,
+          "left": 53,
+          "right": 58
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "71C3F347-F1B6-42A2-9E74-8C57BD02292D",
+      "theme_name_en_us": "Pinky cyan gradient",
+      "theme_name_ja_jp": "ピンクがかった水色のグラデーション",
+      "theme_description_en_us": "Pinky cyan gradient",
+      "theme_description_ja_jp": "ピンクがかった水色のグラデーション",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "gradient_random_line_pink_to_cyan",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 97,
+          "bottom": 81,
+          "left": 53,
+          "right": 58
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 126,
+          "bottom": 99,
+          "left": 53,
+          "right": 58
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "B8A7ABA3-BB42-4CDD-9DBD-1B1B2CE330B8",
+      "theme_name_en_us": "Bluish red gradient",
+      "theme_name_ja_jp": "青みがかった赤のグラデーション",
+      "theme_description_en_us": "Bluish red gradient",
+      "theme_description_ja_jp": "青みがかった赤のグラデーション",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "gradient_random_line_cyan_to_red",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 97,
+          "bottom": 81,
+          "left": 53,
+          "right": 58
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 126,
+          "bottom": 99,
+          "left": 53,
+          "right": 58
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "7EA5F589-703D-4A1D-9A02-61DA81BC8B7A",
+      "theme_name_en_us": "Redish blue gradient",
+      "theme_name_ja_jp": "赤みがかった青のグラデーション",
+      "theme_description_en_us": "Redish blue gradient",
+      "theme_description_ja_jp": "赤みがかった青のグラデーション",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "gradient_random_line_red_to_blue",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 97,
+          "bottom": 81,
+          "left": 53,
+          "right": 58
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 126,
+          "bottom": 99,
+          "left": 53,
+          "right": 58
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "3F11BDD4-16BE-4F00-B82E-3342830EBD38",
+      "theme_name_en_us": "Yellowish purple gradient",
+      "theme_name_ja_jp": "黄色がかった紫のグラデーション",
+      "theme_description_en_us": "Yellowish purple gradient",
+      "theme_description_ja_jp": "黄色がかった紫のグラデーション",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "gradient_random_line_yellow_to_purple",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 97,
+          "bottom": 81,
+          "left": 53,
+          "right": 58
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 126,
+          "bottom": 99,
+          "left": 53,
+          "right": 58
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "6EE96B9B-3090-4B27-A31F-547F66347026",
+      "theme_name_en_us": "Orangish purple gradient",
+      "theme_name_ja_jp": "オレンジがかった紫のグラデーション",
+      "theme_description_en_us": "Orangish purple gradient",
+      "theme_description_ja_jp": "オレンジがかった紫のグラデーション",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "gradient_random_line_orange_to_purple",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 97,
+          "bottom": 81,
+          "left": 53,
+          "right": 58
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 126,
+          "bottom": 99,
+          "left": 53,
+          "right": 58
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "3EC4325B-C859-4D0B-8F8F-DFC9E6F37542",
+      "theme_name_en_us": "Greenish purple gradient",
+      "theme_name_ja_jp": "緑かかった紫のグラデーション",
+      "theme_description_en_us": "Greenish purple gradient",
+      "theme_description_ja_jp": "緑かかった紫のグラデーション",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "gradient_random_line_green_to_purple",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 97,
+          "bottom": 81,
+          "left": 53,
+          "right": 58
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 126,
+          "bottom": 99,
+          "left": 53,
+          "right": 58
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "D93B897A-52D5-47EB-93B7-185139988073",
+      "theme_name_en_us": "Purplish orange gradient",
+      "theme_name_ja_jp": "紫がかったオレンジのグラデーション",
+      "theme_description_en_us": "Purplish orange gradient",
+      "theme_description_ja_jp": "紫がかったオレンジのグラデーション",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "gradient_random_line_purple_to_orange",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 97,
+          "bottom": 81,
+          "left": 53,
+          "right": 58
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 126,
+          "bottom": 99,
+          "left": 53,
+          "right": 58
+        }
+      ],
+      "partition_index": 0
+    },
+    {
       "id": "52C83E6D-ADA3-42B0-BB03-FE42E2766B84",
       "theme_name_en_us": "Red check",
       "theme_name_ja_jp": "赤チェック",
@@ -40,6 +443,347 @@
       "artist_name_en_us": "Yoshihisa Masaki",
       "artist_name_ja_jp": "正木祥悠",
       "theme_file_prefix": "check_red",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 85,
+          "bottom": 52,
+          "left": 43,
+          "right": 43
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 119,
+          "bottom": 66,
+          "left": 43,
+          "right": 43
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "099099BB-BF27-4527-9B33-3BB0F89DF631",
+      "theme_name_en_us": "Blue check",
+      "theme_name_ja_jp": "青チェック",
+      "theme_description_en_us": "Blue check",
+      "theme_description_ja_jp": "青チェック",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "check_blue",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 85,
+          "bottom": 52,
+          "left": 43,
+          "right": 43
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 119,
+          "bottom": 66,
+          "left": 43,
+          "right": 43
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "8C098AC4-BA6F-438E-9055-09767E13C834",
+      "theme_name_en_us": "Cyan check",
+      "theme_name_ja_jp": "水色チェック",
+      "theme_description_en_us": "Cyan check",
+      "theme_description_ja_jp": "水色チェック",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "check_cyan",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 85,
+          "bottom": 52,
+          "left": 43,
+          "right": 43
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 119,
+          "bottom": 66,
+          "left": 43,
+          "right": 43
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "E63E1A56-112B-4102-B1D7-583FA01D892E",
+      "theme_name_en_us": "Yellow check",
+      "theme_name_ja_jp": "黄色チェック",
+      "theme_description_en_us": "Yellow check",
+      "theme_description_ja_jp": "黄色チェック",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "check_yellow",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 85,
+          "bottom": 52,
+          "left": 43,
+          "right": 43
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 119,
+          "bottom": 66,
+          "left": 43,
+          "right": 43
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "ECBD9ECD-BBE6-45E2-B162-5EAF03C66050",
+      "theme_name_en_us": "Pink check",
+      "theme_name_ja_jp": "ピンクチェック",
+      "theme_description_en_us": "Pink check",
+      "theme_description_ja_jp": "ピンクチェック",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "check_pink",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 85,
+          "bottom": 52,
+          "left": 43,
+          "right": 43
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 119,
+          "bottom": 66,
+          "left": 43,
+          "right": 43
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "BE6D0BDB-A471-4DE3-A944-774ACECC5F76",
+      "theme_name_en_us": "Orange check",
+      "theme_name_ja_jp": "オレンジチェック",
+      "theme_description_en_us": "Orange check",
+      "theme_description_ja_jp": "オレンジチェック",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "check_orange",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 85,
+          "bottom": 52,
+          "left": 43,
+          "right": 43
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 119,
+          "bottom": 66,
+          "left": 43,
+          "right": 43
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "CD00C73C-E86C-424B-A0F3-B16E2684BEF5",
+      "theme_name_en_us": "Green check",
+      "theme_name_ja_jp": "緑チェック",
+      "theme_description_en_us": "Green check",
+      "theme_description_ja_jp": "緑チェック",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "check_green",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 85,
+          "bottom": 52,
+          "left": 43,
+          "right": 43
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 119,
+          "bottom": 66,
+          "left": 43,
+          "right": 43
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "657CD338-6543-402F-B44C-3E52BAA8B690",
+      "theme_name_en_us": "Pastel dots",
+      "theme_name_ja_jp": "パステルドット",
+      "theme_description_en_us": "Pastel dots",
+      "theme_description_ja_jp": "パステルドット",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "dots_1",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 85,
+          "bottom": 52,
+          "left": 43,
+          "right": 43
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 119,
+          "bottom": 66,
+          "left": 43,
+          "right": 43
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "43182583-19BC-4B16-8DC8-0F588E3719D8",
+      "theme_name_en_us": "White x Black dots",
+      "theme_name_ja_jp": "白 x 黒ドット",
+      "theme_description_en_us": "White x Black dots",
+      "theme_description_ja_jp": "白 x 黒ドット",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "dots_2",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 85,
+          "bottom": 52,
+          "left": 43,
+          "right": 43
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 119,
+          "bottom": 66,
+          "left": 43,
+          "right": 43
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "6D980FC1-DBE1-4FA5-97BF-D9946CC86C8C",
+      "theme_name_en_us": "Navy Blue x White dots",
+      "theme_name_ja_jp": "ネイビー x ホワイトドット",
+      "theme_description_en_us": "Navy Blue x White dots",
+      "theme_description_ja_jp": "ネイビー x ホワイトドット",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "dots_3",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 85,
+          "bottom": 52,
+          "left": 43,
+          "right": 43
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 119,
+          "bottom": 66,
+          "left": 43,
+          "right": 43
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "6C292A2F-E169-4A19-A034-9AF9A04F7D62",
+      "theme_name_en_us": "Black x White dots",
+      "theme_name_ja_jp": "黒 x 白ドット",
+      "theme_description_en_us": "Black x White dots",
+      "theme_description_ja_jp": "黒 x 白ドット",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "dots_4",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 85,
+          "bottom": 52,
+          "left": 43,
+          "right": 43
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 119,
+          "bottom": 66,
+          "left": 43,
+          "right": 43
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "4DB71D69-F00A-46F9-A399-EB0D9B52AF81",
+      "theme_name_en_us": "Red x White dots",
+      "theme_name_ja_jp": "赤 x 白ドット",
+      "theme_description_en_us": "Red x White dots",
+      "theme_description_ja_jp": "赤 x 白ドット",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "dots_5",
       "image_types": [
         "preview_background",
         "background"
@@ -94,6 +838,192 @@
       "partition_index": 0
     },
     {
+      "id": "A4C7EE66-27C6-4234-A6A1-4B525A0870B5",
+      "theme_name_en_us": "Blue x White dots",
+      "theme_name_ja_jp": "青 x 白ドット",
+      "theme_description_en_us": "Blue x White dots",
+      "theme_description_ja_jp": "青 x 白ドット",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "dots_7",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 85,
+          "bottom": 52,
+          "left": 43,
+          "right": 43
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 119,
+          "bottom": 66,
+          "left": 43,
+          "right": 43
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "F0D598F1-1B62-4CBB-8D6C-3C8BEC119989",
+      "theme_name_en_us": "Teal x White dots",
+      "theme_name_ja_jp": "ティール x ホワイトドット",
+      "theme_description_en_us": "Teal x White dots",
+      "theme_description_ja_jp": "ティール x ホワイトドット",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "dots_8",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 85,
+          "bottom": 52,
+          "left": 43,
+          "right": 43
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 119,
+          "bottom": 66,
+          "left": 43,
+          "right": 43
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "12552AEC-3A2F-4203-A70C-E6560950AF71",
+      "theme_name_en_us": "Sky blue x White dots",
+      "theme_name_ja_jp": "水色 x 白ドット",
+      "theme_description_en_us": "Sky blue x White dots",
+      "theme_description_ja_jp": "水色 x 白ドット",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "dots_9",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 85,
+          "bottom": 52,
+          "left": 43,
+          "right": 43
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 119,
+          "bottom": 66,
+          "left": 43,
+          "right": 43
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "CFE9CD51-3140-4122-BEA1-3C12713EBA46",
+      "theme_name_en_us": "Greenish blue x White dots",
+      "theme_name_ja_jp": "青緑 x 白ドット",
+      "theme_description_en_us": "Greenish blue x White dots",
+      "theme_description_ja_jp": "青緑 x 白ドット",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "dots_10",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 85,
+          "bottom": 52,
+          "left": 43,
+          "right": 43
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 119,
+          "bottom": 66,
+          "left": 43,
+          "right": 43
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "27F60D71-0EB8-497E-ADF8-E267C044E147",
+      "theme_name_en_us": "Orange x White dots",
+      "theme_name_ja_jp": "オレンジ x ホワイトドット",
+      "theme_description_en_us": "Orange x White dots",
+      "theme_description_ja_jp": "オレンジ x ホワイトドット",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "dots_11",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 85,
+          "bottom": 52,
+          "left": 43,
+          "right": 43
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 119,
+          "bottom": 66,
+          "left": 43,
+          "right": 43
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "464450F4-9965-4728-A532-3D6DD61E49BE",
+      "theme_name_en_us": "Pale pink x White dots",
+      "theme_name_ja_jp": "ピンク x ホワイトドット",
+      "theme_description_en_us": "Pale pink x White dots",
+      "theme_description_ja_jp": "ピンク x ホワイトドット",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "dots_12",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 85,
+          "bottom": 52,
+          "left": 43,
+          "right": 43
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 119,
+          "bottom": 66,
+          "left": 43,
+          "right": 43
+        }
+      ],
+      "partition_index": 0
+    },
+    {
       "id": "5F085AFD-CCAB-4BCA-9B74-1CAB0CECCAD9",
       "theme_name_en_us": "White x Red dots",
       "theme_name_ja_jp": "白 x 赤ドット",
@@ -102,6 +1032,37 @@
       "artist_name_en_us": "Yoshihisa Masaki",
       "artist_name_ja_jp": "正木祥悠",
       "theme_file_prefix": "dots_13",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 85,
+          "bottom": 52,
+          "left": 43,
+          "right": 43
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 119,
+          "bottom": 66,
+          "left": 43,
+          "right": 43
+        }
+      ],
+      "partition_index": 0
+    },
+    {
+      "id": "2E008DC2-D7FB-49D9-887B-A69D79BD1E92",
+      "theme_name_en_us": "Blueish white x Pale blue dots",
+      "theme_name_ja_jp": "薄青 x 水色ドット",
+      "theme_description_en_us": "Blueish white x Pale blue dots",
+      "theme_description_ja_jp": "薄青 x 水色ドット",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "dots_14",
       "image_types": [
         "preview_background",
         "background"
