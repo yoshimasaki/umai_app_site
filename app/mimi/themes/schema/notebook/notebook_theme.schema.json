@@ -61,6 +61,10 @@
                 ]
             }
         },
+        "is_floating_action_button_icon_hidden": {
+            "description": "Is FAB icon hidden?",
+            "type": "boolean"
+        },
         "partition_index": {
             "description": "Partition index number",
             "type": "integer",
