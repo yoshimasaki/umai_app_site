@@ -1084,37 +1084,6 @@
         }
       ],
       "partition_index": 0
-    },
-    {
-      "id": "D72D59EA-1CA5-4CB8-A356-270D2D6A411B",
-      "theme_name_en_us": "",
-      "theme_name_ja_jp": "",
-      "theme_description_en_us": "",
-      "theme_description_ja_jp": "",
-      "artist_name_en_us": "Yoshihisa Masaki",
-      "artist_name_ja_jp": "正木祥悠",
-      "theme_file_prefix": "test",
-      "image_types": [
-        "preview_background",
-        "background"
-      ],
-      "text_area_margins": [
-        {
-          "background_aspect_ratio": "16:9",
-          "top": 129,
-          "bottom": 472,
-          "left": 187,
-          "right": 28
-        },
-        {
-          "background_aspect_ratio": "19.5:9",
-          "top": 148,
-          "bottom": 575,
-          "left": 207,
-          "right": 28
-        }
-      ],
-      "partition_index": 0
     }
   ],
   "update": [],
