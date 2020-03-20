@@ -14,13 +14,13 @@
         },
         {
             "fileMatch": [
-                "/note/*/Content_index/*.json"
+                "/note/contents/*/Content_index/*.json"
             ],
             "url": "./schema/note/Content.schema.json"
         },
         {
             "fileMatch": [
-                "/notebook/*/Content_index/*.json"
+                "/notebook/contents/*/Content_index/*.json"
             ],
             "url": "./schema/notebook/Content.schema.json"
         }
