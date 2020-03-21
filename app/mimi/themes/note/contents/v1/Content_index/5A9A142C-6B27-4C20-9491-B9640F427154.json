@@ -1,6 +1,37 @@
 {
   "new": [
     {
+      "id": "EF88882F-3809-4A0D-AF57-B333C81C48CD",
+      "theme_name_en_us": "mimi with red heart",
+      "theme_name_ja_jp": "mimiと赤いハート",
+      "theme_description_en_us": "mimi with red heart",
+      "theme_description_ja_jp": "mimiと赤いハート",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "mimi_heart",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 108,
+          "bottom": 237,
+          "left": 43,
+          "right": 51
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 137,
+          "bottom": 236,
+          "left": 49,
+          "right": 50
+        }
+      ],
+      "partition_index": 0
+    },
+    {
       "id": "68C4C06D-B614-4192-949E-FA4BCCCEE781",
       "theme_name_en_us": "Pink gradient",
       "theme_name_ja_jp": "ピンクのグラデーション",
