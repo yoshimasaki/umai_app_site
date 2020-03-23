@@ -4,6 +4,7 @@
     "type": "object",
     "required": [
         "id",
+        "version",
         "theme_name_en_us",
         "theme_name_ja_jp",
         "theme_description_en_us",
@@ -18,6 +19,10 @@
     "properties": {
         "id": {
             "description": "Theme uuid",
+            "type": "string"
+        },
+        "version": {
+            "description": "Theme version",
             "type": "string"
         },
         "theme_name_en_us": {
@@ -99,6 +104,21 @@
                     }
                 }
             }
+        },
+        "primary_color": {
+            "description": "Primary color",
+            "type": "string",
+            "pattern": "^(#?[0-9a-fA-F]{6})(@(1(\\.0)?|0(\\.[0-9]{1,3})?))?$"
+        },
+        "accent_color": {
+            "description": "Accent color",
+            "type": "string",
+            "pattern": "^(#?[0-9a-fA-F]{6})(@(1(\\.0)?|0(\\.[0-9]{1,3})?))?$"
+        },
+        "text_foreground_color": {
+            "description": "Text foreground color",
+            "type": "string",
+            "pattern": "^(#?[0-9a-fA-F]{6})(@(1(\\.0)?|0(\\.[0-9]{1,3})?))?$"
         },
         "partition_index": {
             "description": "Partition index number",
