@@ -2,6 +2,7 @@
   "new": [
     {
       "id": "EF88882F-3809-4A0D-AF57-B333C81C48CD",
+      "version": "1.0",
       "theme_name_en_us": "mimi with red heart",
       "theme_name_ja_jp": "mimiと赤いハート",
       "theme_description_en_us": "mimi with red heart",
@@ -33,6 +34,7 @@
     },
     {
       "id": "68C4C06D-B614-4192-949E-FA4BCCCEE781",
+      "version": "1.0",
       "theme_name_en_us": "Pink gradient",
       "theme_name_ja_jp": "ピンクのグラデーション",
       "theme_description_en_us": "Pink gradient",
@@ -64,6 +66,7 @@
     },
     {
       "id": "F81C4A31-6020-40D1-8D6A-8D6383EB34B3",
+      "version": "1.0",
       "theme_name_en_us": "Cyan gradient",
       "theme_name_ja_jp": "水色のグラデーション",
       "theme_description_en_us": "Cyan gradient",
@@ -95,6 +98,7 @@
     },
     {
       "id": "07DE32A2-0FA1-401D-8839-E1787FFA710E",
+      "version": "1.0",
       "theme_name_en_us": "Yellow gradient",
       "theme_name_ja_jp": "黄色のグラデーション",
       "theme_description_en_us": "Yellow gradient",
@@ -126,6 +130,7 @@
     },
     {
       "id": "974A339A-0CF2-4063-8DB8-053048580DD6",
+      "version": "1.0",
       "theme_name_en_us": "Red gradient",
       "theme_name_ja_jp": "赤のグラデーション",
       "theme_description_en_us": "Red gradient",
@@ -157,6 +162,7 @@
     },
     {
       "id": "41366698-FA68-4751-A2C7-F22D311DE156",
+      "version": "1.0",
       "theme_name_en_us": "Green gradient",
       "theme_name_ja_jp": "緑のグラデーション",
       "theme_description_en_us": "Green gradient",
@@ -188,6 +194,7 @@
     },
     {
       "id": "CDCCA4D6-7FDD-4C4C-A4E8-53B767931B53",
+      "version": "1.0",
       "theme_name_en_us": "Purple gradient",
       "theme_name_ja_jp": "紫のグラデーション",
       "theme_description_en_us": "Purple gradient",
@@ -219,6 +226,7 @@
     },
     {
       "id": "00A3DCF8-527A-4BCA-A571-EBB95346354F",
+      "version": "1.0",
       "theme_name_en_us": "Orange gradient",
       "theme_name_ja_jp": "オレンジのグラデーション",
       "theme_description_en_us": "Orange gradient",
@@ -250,6 +258,7 @@
     },
     {
       "id": "71C3F347-F1B6-42A2-9E74-8C57BD02292D",
+      "version": "1.0",
       "theme_name_en_us": "Pinky cyan gradient",
       "theme_name_ja_jp": "ピンクがかった水色のグラデーション",
       "theme_description_en_us": "Pinky cyan gradient",
@@ -281,6 +290,7 @@
     },
     {
       "id": "B8A7ABA3-BB42-4CDD-9DBD-1B1B2CE330B8",
+      "version": "1.0",
       "theme_name_en_us": "Bluish red gradient",
       "theme_name_ja_jp": "青みがかった赤のグラデーション",
       "theme_description_en_us": "Bluish red gradient",
@@ -312,6 +322,7 @@
     },
     {
       "id": "7EA5F589-703D-4A1D-9A02-61DA81BC8B7A",
+      "version": "1.0",
       "theme_name_en_us": "Redish blue gradient",
       "theme_name_ja_jp": "赤みがかった青のグラデーション",
       "theme_description_en_us": "Redish blue gradient",
@@ -343,6 +354,7 @@
     },
     {
       "id": "3F11BDD4-16BE-4F00-B82E-3342830EBD38",
+      "version": "1.0",
       "theme_name_en_us": "Yellowish purple gradient",
       "theme_name_ja_jp": "黄色がかった紫のグラデーション",
       "theme_description_en_us": "Yellowish purple gradient",
@@ -374,6 +386,7 @@
     },
     {
       "id": "6EE96B9B-3090-4B27-A31F-547F66347026",
+      "version": "1.0",
       "theme_name_en_us": "Orangish purple gradient",
       "theme_name_ja_jp": "オレンジがかった紫のグラデーション",
       "theme_description_en_us": "Orangish purple gradient",
@@ -405,6 +418,7 @@
     },
     {
       "id": "3EC4325B-C859-4D0B-8F8F-DFC9E6F37542",
+      "version": "1.0",
       "theme_name_en_us": "Greenish purple gradient",
       "theme_name_ja_jp": "緑かかった紫のグラデーション",
       "theme_description_en_us": "Greenish purple gradient",
@@ -436,6 +450,7 @@
     },
     {
       "id": "D93B897A-52D5-47EB-93B7-185139988073",
+      "version": "1.0",
       "theme_name_en_us": "Purplish orange gradient",
       "theme_name_ja_jp": "紫がかったオレンジのグラデーション",
       "theme_description_en_us": "Purplish orange gradient",
@@ -467,6 +482,7 @@
     },
     {
       "id": "52C83E6D-ADA3-42B0-BB03-FE42E2766B84",
+      "version": "1.0",
       "theme_name_en_us": "Red check",
       "theme_name_ja_jp": "赤チェック",
       "theme_description_en_us": "Red check",
@@ -498,6 +514,7 @@
     },
     {
       "id": "099099BB-BF27-4527-9B33-3BB0F89DF631",
+      "version": "1.0",
       "theme_name_en_us": "Blue check",
       "theme_name_ja_jp": "青チェック",
       "theme_description_en_us": "Blue check",
@@ -529,6 +546,7 @@
     },
     {
       "id": "8C098AC4-BA6F-438E-9055-09767E13C834",
+      "version": "1.0",
       "theme_name_en_us": "Cyan check",
       "theme_name_ja_jp": "水色チェック",
       "theme_description_en_us": "Cyan check",
@@ -560,6 +578,7 @@
     },
     {
       "id": "E63E1A56-112B-4102-B1D7-583FA01D892E",
+      "version": "1.0",
       "theme_name_en_us": "Yellow check",
       "theme_name_ja_jp": "黄色チェック",
       "theme_description_en_us": "Yellow check",
@@ -591,6 +610,7 @@
     },
     {
       "id": "ECBD9ECD-BBE6-45E2-B162-5EAF03C66050",
+      "version": "1.0",
       "theme_name_en_us": "Pink check",
       "theme_name_ja_jp": "ピンクチェック",
       "theme_description_en_us": "Pink check",
@@ -622,6 +642,7 @@
     },
     {
       "id": "BE6D0BDB-A471-4DE3-A944-774ACECC5F76",
+      "version": "1.0",
       "theme_name_en_us": "Orange check",
       "theme_name_ja_jp": "オレンジチェック",
       "theme_description_en_us": "Orange check",
@@ -653,6 +674,7 @@
     },
     {
       "id": "CD00C73C-E86C-424B-A0F3-B16E2684BEF5",
+      "version": "1.0",
       "theme_name_en_us": "Green check",
       "theme_name_ja_jp": "緑チェック",
       "theme_description_en_us": "Green check",
@@ -684,6 +706,7 @@
     },
     {
       "id": "657CD338-6543-402F-B44C-3E52BAA8B690",
+      "version": "1.0",
       "theme_name_en_us": "Pastel dots",
       "theme_name_ja_jp": "パステルドット",
       "theme_description_en_us": "Pastel dots",
@@ -715,6 +738,7 @@
     },
     {
       "id": "43182583-19BC-4B16-8DC8-0F588E3719D8",
+      "version": "1.0",
       "theme_name_en_us": "White x Black dots",
       "theme_name_ja_jp": "白 x 黒ドット",
       "theme_description_en_us": "White x Black dots",
@@ -746,6 +770,7 @@
     },
     {
       "id": "6D980FC1-DBE1-4FA5-97BF-D9946CC86C8C",
+      "version": "1.0",
       "theme_name_en_us": "Navy Blue x White dots",
       "theme_name_ja_jp": "ネイビー x ホワイトドット",
       "theme_description_en_us": "Navy Blue x White dots",
@@ -777,6 +802,7 @@
     },
     {
       "id": "6C292A2F-E169-4A19-A034-9AF9A04F7D62",
+      "version": "1.0",
       "theme_name_en_us": "Black x White dots",
       "theme_name_ja_jp": "黒 x 白ドット",
       "theme_description_en_us": "Black x White dots",
@@ -808,6 +834,7 @@
     },
     {
       "id": "4DB71D69-F00A-46F9-A399-EB0D9B52AF81",
+      "version": "1.0",
       "theme_name_en_us": "Red x White dots",
       "theme_name_ja_jp": "赤 x 白ドット",
       "theme_description_en_us": "Red x White dots",
@@ -839,6 +866,7 @@
     },
     {
       "id": "3B24C4E8-E8AE-4F67-8416-3C7538E0C96E",
+      "version": "1.0",
       "theme_name_en_us": "Yellow x White dots",
       "theme_name_ja_jp": "黄色 x 白ドット",
       "theme_description_en_us": "Yellow x White dots",
@@ -870,6 +898,7 @@
     },
     {
       "id": "A4C7EE66-27C6-4234-A6A1-4B525A0870B5",
+      "version": "1.0",
       "theme_name_en_us": "Blue x White dots",
       "theme_name_ja_jp": "青 x 白ドット",
       "theme_description_en_us": "Blue x White dots",
@@ -901,6 +930,7 @@
     },
     {
       "id": "F0D598F1-1B62-4CBB-8D6C-3C8BEC119989",
+      "version": "1.0",
       "theme_name_en_us": "Teal x White dots",
       "theme_name_ja_jp": "ティール x ホワイトドット",
       "theme_description_en_us": "Teal x White dots",
@@ -932,6 +962,7 @@
     },
     {
       "id": "12552AEC-3A2F-4203-A70C-E6560950AF71",
+      "version": "1.0",
       "theme_name_en_us": "Sky blue x White dots",
       "theme_name_ja_jp": "水色 x 白ドット",
       "theme_description_en_us": "Sky blue x White dots",
@@ -963,6 +994,7 @@
     },
     {
       "id": "CFE9CD51-3140-4122-BEA1-3C12713EBA46",
+      "version": "1.0",
       "theme_name_en_us": "Greenish blue x White dots",
       "theme_name_ja_jp": "青緑 x 白ドット",
       "theme_description_en_us": "Greenish blue x White dots",
@@ -994,6 +1026,7 @@
     },
     {
       "id": "27F60D71-0EB8-497E-ADF8-E267C044E147",
+      "version": "1.0",
       "theme_name_en_us": "Orange x White dots",
       "theme_name_ja_jp": "オレンジ x ホワイトドット",
       "theme_description_en_us": "Orange x White dots",
@@ -1025,6 +1058,7 @@
     },
     {
       "id": "464450F4-9965-4728-A532-3D6DD61E49BE",
+      "version": "1.0",
       "theme_name_en_us": "Pale pink x White dots",
       "theme_name_ja_jp": "ピンク x ホワイトドット",
       "theme_description_en_us": "Pale pink x White dots",
@@ -1056,6 +1090,7 @@
     },
     {
       "id": "5F085AFD-CCAB-4BCA-9B74-1CAB0CECCAD9",
+      "version": "1.0",
       "theme_name_en_us": "White x Red dots",
       "theme_name_ja_jp": "白 x 赤ドット",
       "theme_description_en_us": "White x Red dots",
@@ -1087,6 +1122,7 @@
     },
     {
       "id": "2E008DC2-D7FB-49D9-887B-A69D79BD1E92",
+      "version": "1.0",
       "theme_name_en_us": "Blueish white x Pale blue dots",
       "theme_name_ja_jp": "薄青 x 水色ドット",
       "theme_description_en_us": "Blueish white x Pale blue dots",
