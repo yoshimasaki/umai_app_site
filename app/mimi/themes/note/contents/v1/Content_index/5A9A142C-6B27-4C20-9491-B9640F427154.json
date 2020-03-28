@@ -33,6 +33,41 @@
       "partition_index": 0
     },
     {
+      "id": "49AC6B7D-88CE-4542-8418-930DADF615E3",
+      "version": "1.0",
+      "theme_name_en_us": "mimi with cherry & strawberry",
+      "theme_name_ja_jp": "mimiとさくらんぼといちご",
+      "theme_description_en_us": "mimi with cherry & strawberry",
+      "theme_description_ja_jp": "mimiとさくらんぼといちご",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "mimi_cherry",
+      "image_types": [
+        "preview_background",
+        "background"
+      ],
+      "text_area_margins": [
+        {
+          "background_aspect_ratio": "16:9",
+          "top": 108,
+          "bottom": 176,
+          "left": 43,
+          "right": 51
+        },
+        {
+          "background_aspect_ratio": "19.5:9",
+          "top": 137,
+          "bottom": 177,
+          "left": 49,
+          "right": 50
+        }
+      ],
+      "primary_color": "#FECCEB",
+      "accent_color": "#FFF8FC",
+      "text_foreground_color": "#4E4E4E",
+      "partition_index": 0
+    },
+    {
       "id": "68C4C06D-B614-4192-949E-FA4BCCCEE781",
       "version": "1.0",
       "theme_name_en_us": "Pink gradient",
