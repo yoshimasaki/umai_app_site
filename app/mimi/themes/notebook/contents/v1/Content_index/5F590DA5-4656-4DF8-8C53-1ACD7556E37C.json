@@ -34,6 +34,8 @@
         "floating_action_button"
       ],
       "is_floating_action_button_icon_hidden": true,
+      "primary_color": "#F3DEED",
+      "accent_color": "#FEFDFD",
       "partition_index": 0
     },
     {
@@ -71,6 +73,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#FBE9F6",
+      "accent_color": "#DFD88E",
       "partition_index": 0
     },
     {
@@ -88,6 +92,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#D4F9F6",
+      "accent_color": "#DFD88E",
       "partition_index": 0
     },
     {
@@ -105,6 +111,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#FBFDCE",
+      "accent_color": "#DFD88E",
       "partition_index": 0
     },
     {
@@ -122,6 +130,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#F8C2C2",
+      "accent_color": "#CAC167",
       "partition_index": 0
     },
     {
@@ -139,6 +149,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#D2F7BC",
+      "accent_color": "#DFD88E",
       "partition_index": 0
     },
     {
@@ -156,6 +168,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#E5B3F1",
+      "accent_color": "#CAC167",
       "partition_index": 0
     },
     {
@@ -173,6 +187,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#F7E0BD",
+      "accent_color": "#DFD88E",
       "partition_index": 0
     },
     {
@@ -190,6 +206,7 @@
         "background",
         "floating_action_button"
       ],
+      "accent_color": "#DFD88E",
       "partition_index": 0
     },
     {
@@ -207,6 +224,7 @@
         "background",
         "floating_action_button"
       ],
+      "accent_color": "#DFD88E",
       "partition_index": 0
     },
     {
@@ -224,6 +242,7 @@
         "background",
         "floating_action_button"
       ],
+      "accent_color": "#CAC167",
       "partition_index": 0
     },
     {
@@ -241,6 +260,7 @@
         "background",
         "floating_action_button"
       ],
+      "accent_color": "#DFD88E",
       "partition_index": 0
     },
     {
@@ -258,6 +278,7 @@
         "background",
         "floating_action_button"
       ],
+      "accent_color": "#CAC167",
       "partition_index": 0
     },
     {
@@ -275,6 +296,7 @@
         "background",
         "floating_action_button"
       ],
+      "accent_color": "#DFD88E",
       "partition_index": 0
     },
     {
@@ -292,6 +314,7 @@
         "background",
         "floating_action_button"
       ],
+      "accent_color": "#CAC167",
       "partition_index": 0
     },
     {
@@ -310,6 +333,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#F9C8C8",
+      "accent_color": "#EA8282",
       "partition_index": 0
     },
     {
@@ -328,6 +353,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#BAC7F5",
+      "accent_color": "#6A7FDB",
       "partition_index": 0
     },
     {
@@ -346,6 +373,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#C8F3F9",
+      "accent_color": "#73CEDC",
       "partition_index": 0
     },
     {
@@ -364,6 +393,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#FBF7A8",
+      "accent_color": "#E0D637",
       "partition_index": 0
     },
     {
@@ -382,6 +413,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#FBCFF1",
+      "accent_color": "#E086CA",
       "partition_index": 0
     },
     {
@@ -400,6 +433,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#FAEAB1",
+      "accent_color": "#E5BF4A",
       "partition_index": 0
     },
     {
@@ -418,6 +453,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#CAF6C6",
+      "accent_color": "#6DDA65",
       "partition_index": 0
     },
     {
@@ -436,6 +473,7 @@
         "background",
         "floating_action_button"
       ],
+      "accent_color": "#CACD29",
       "partition_index": 0
     },
     {
@@ -454,6 +492,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#FDFBFB",
+      "accent_color": "#31323A",
       "partition_index": 0
     },
     {
@@ -472,6 +512,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#B5BACC",
+      "accent_color": "#F1F1F1",
       "partition_index": 0
     },
     {
@@ -490,6 +532,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#C0BFBE",
+      "accent_color": "#F1F1F1",
       "partition_index": 0
     },
     {
@@ -508,6 +552,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#F9B9B9",
+      "accent_color": "#F1F1F1",
       "partition_index": 0
     },
     {
@@ -526,6 +572,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#FBF8B7",
+      "accent_color": "#F1F1F1",
       "partition_index": 0
     },
     {
@@ -544,6 +592,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#BFC8EA",
+      "accent_color": "#F1F1F1",
       "partition_index": 0
     },
     {
@@ -562,6 +612,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#C3DBD4",
+      "accent_color": "#F1F1F1",
       "partition_index": 0
     },
     {
@@ -580,6 +632,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#DBF8FF",
+      "accent_color": "#F1F1F1",
       "partition_index": 0
     },
     {
@@ -598,6 +652,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#E5F5F5",
+      "accent_color": "#F1F1F1",
       "partition_index": 0
     },
     {
@@ -616,6 +672,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#FCEECA",
+      "accent_color": "#F1F1F1",
       "partition_index": 0
     },
     {
@@ -634,6 +692,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#FFF6F8",
+      "accent_color": "#FFFFFF",
       "partition_index": 0
     },
     {
@@ -652,6 +712,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#FDFBFA",
+      "accent_color": "#EF2D2D",
       "partition_index": 0
     },
     {
@@ -670,6 +732,8 @@
         "background",
         "floating_action_button"
       ],
+      "primary_color": "#F7F9FF",
+      "accent_color": "#D8EFFC",
       "partition_index": 0
     }
   ],

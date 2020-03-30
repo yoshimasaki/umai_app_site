@@ -30,6 +30,9 @@
           "right": 50
         }
       ],
+      "primary_color": "#F3DEED",
+      "accent_color": "#FEFDFD",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -97,6 +100,9 @@
           "right": 58
         }
       ],
+      "primary_color": "#FBE9F6",
+      "accent_color": "#DFD88E",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -129,6 +135,9 @@
           "right": 58
         }
       ],
+      "primary_color": "#D4F9F6",
+      "accent_color": "#DFD88E",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -161,6 +170,9 @@
           "right": 58
         }
       ],
+      "primary_color": "#FBFDCE",
+      "accent_color": "#DFD88E",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -193,6 +205,9 @@
           "right": 58
         }
       ],
+      "primary_color": "#F8C2C2",
+      "accent_color": "#CAC167",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -225,6 +240,9 @@
           "right": 58
         }
       ],
+      "primary_color": "#D2F7BC",
+      "accent_color": "#DFD88E",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -257,6 +275,9 @@
           "right": 58
         }
       ],
+      "primary_color": "#E5B3F1",
+      "accent_color": "#CAC167",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -289,6 +310,9 @@
           "right": 58
         }
       ],
+      "primary_color": "#F7E0BD",
+      "accent_color": "#DFD88E",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -321,6 +345,8 @@
           "right": 58
         }
       ],
+      "accent_color": "#DFD88E",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -353,6 +379,8 @@
           "right": 58
         }
       ],
+      "accent_color": "#DFD88E",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -385,6 +413,8 @@
           "right": 58
         }
       ],
+      "accent_color": "#CAC167",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -417,6 +447,8 @@
           "right": 58
         }
       ],
+      "accent_color": "#DFD88E",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -449,6 +481,8 @@
           "right": 58
         }
       ],
+      "accent_color": "#CAC167",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -481,6 +515,8 @@
           "right": 58
         }
       ],
+      "accent_color": "#DFD88E",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -513,6 +549,8 @@
           "right": 58
         }
       ],
+      "accent_color": "#CAC167",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -545,6 +583,9 @@
           "right": 43
         }
       ],
+      "primary_color": "#F9C8C8",
+      "accent_color": "#EA8282",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -577,6 +618,9 @@
           "right": 43
         }
       ],
+      "primary_color": "#BAC7F5",
+      "accent_color": "#6A7FDB",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -609,6 +653,9 @@
           "right": 43
         }
       ],
+      "primary_color": "#C8F3F9",
+      "accent_color": "#73CEDC",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -641,6 +688,9 @@
           "right": 43
         }
       ],
+      "primary_color": "#FBF7A8",
+      "accent_color": "#E0D637",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -673,6 +723,9 @@
           "right": 43
         }
       ],
+      "primary_color": "#FBCFF1",
+      "accent_color": "#E086CA",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -705,6 +758,9 @@
           "right": 43
         }
       ],
+      "primary_color": "#FAEAB1",
+      "accent_color": "#E5BF4A",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -737,6 +793,9 @@
           "right": 43
         }
       ],
+      "primary_color": "#CAF6C6",
+      "accent_color": "#6DDA65",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -769,6 +828,8 @@
           "right": 43
         }
       ],
+      "accent_color": "#CACD29",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -801,6 +862,9 @@
           "right": 43
         }
       ],
+      "primary_color": "#FDFBFB",
+      "accent_color": "#31323A",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -833,6 +897,9 @@
           "right": 43
         }
       ],
+      "primary_color": "#B5BACC",
+      "accent_color": "#F1F1F1",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -865,6 +932,9 @@
           "right": 43
         }
       ],
+      "primary_color": "#C0BFBE",
+      "accent_color": "#F1F1F1",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -897,6 +967,9 @@
           "right": 43
         }
       ],
+      "primary_color": "#F9B9B9",
+      "accent_color": "#F1F1F1",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -929,6 +1002,9 @@
           "right": 43
         }
       ],
+      "primary_color": "#FBF8B7",
+      "accent_color": "#F1F1F1",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -961,6 +1037,9 @@
           "right": 43
         }
       ],
+      "primary_color": "#BFC8EA",
+      "accent_color": "#F1F1F1",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -993,6 +1072,9 @@
           "right": 43
         }
       ],
+      "primary_color": "#C3DBD4",
+      "accent_color": "#F1F1F1",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -1025,6 +1107,9 @@
           "right": 43
         }
       ],
+      "primary_color": "#DBF8FF",
+      "accent_color": "#F1F1F1",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -1057,6 +1142,9 @@
           "right": 43
         }
       ],
+      "primary_color": "#E5F5F5",
+      "accent_color": "#F1F1F1",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -1089,6 +1177,9 @@
           "right": 43
         }
       ],
+      "primary_color": "#FCEECA",
+      "accent_color": "#F1F1F1",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -1121,6 +1212,9 @@
           "right": 43
         }
       ],
+      "primary_color": "#FFF6F8",
+      "accent_color": "#FFFFFF",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -1153,6 +1247,9 @@
           "right": 43
         }
       ],
+      "primary_color": "#FDFBFA",
+      "accent_color": "#EF2D2D",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     },
     {
@@ -1185,6 +1282,9 @@
           "right": 43
         }
       ],
+      "primary_color": "#F7F9FF",
+      "accent_color": "#D8EFFC",
+      "text_foreground_color": "#4E4E4E",
       "partition_index": 0
     }
   ],
