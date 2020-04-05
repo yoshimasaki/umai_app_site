@@ -59,6 +59,26 @@
       "partition_index": 0
     },
     {
+      "id": "469088E8-3C8C-4A4F-A2B9-EBC1E915A936",
+      "version": "1.0",
+      "theme_name_en_us": "Baby goat yanagi",
+      "theme_name_ja_jp": "子やぎのやなぎちゃん",
+      "theme_description_en_us": "The baby goat yanagi eats trashed note, she living in the new jira island.",
+      "theme_description_ja_jp": "にゅうじら島に住む子やぎのやなぎちゃんがゴミ箱にすてたメモを食べてくれます。",
+      "artist_name_en_us": "Yoshihisa Masaki",
+      "artist_name_ja_jp": "正木祥悠",
+      "theme_file_prefix": "yanagi",
+      "image_types": [
+        "cover",
+        "background",
+        "floating_action_button"
+      ],
+      "is_floating_action_button_icon_hidden": true,
+      "primary_color": "#A4D9EB",
+      "accent_color": "#D9E9F6",
+      "partition_index": 0
+    },
+    {
       "id": "D6C0280C-72C6-4D9D-B962-D25EB173556E",
       "version": "1.0",
       "theme_name_en_us": "Pink gradient",
