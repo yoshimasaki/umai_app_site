@@ -1,0 +1,27 @@
+{
+    "new": [
+      {
+        "id": "7E116F5F-0BBC-4EA3-A72A-390A622A96AB",
+        "version": "1.0",
+        "theme_name_en_us": "marimo with temari",
+        "theme_name_ja_jp": "まりもと手毬",
+        "theme_description_en_us": "The shiba \"marimo\" with temari. This theme requested by ZuziiP.",
+        "theme_description_ja_jp": "しばいぬのまりもと手毬。この着せかえはZuziiPさんからの「しばいぬ」のリクエストで描きました。",
+        "artist_name_en_us": "Yoshihisa Masaki",
+        "artist_name_ja_jp": "正木祥悠",
+        "theme_file_prefix": "marimo_mari",
+        "image_types": [
+          "cover",
+          "background",
+          "floating_action_button"
+        ],
+        "is_floating_action_button_icon_hidden": true,
+        "primary_color": "#EC4B15",
+        "accent_color": "#FFE6DE",
+        "partition_index": 0
+      }
+    ],
+    "update": [],
+    "delete": []
+  }
+  
