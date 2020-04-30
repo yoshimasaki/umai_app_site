@@ -1,0 +1,41 @@
+{
+    "new": [
+        {
+            "id": "4D6EE889-A3D5-43E0-9B8B-EC6C99C0A086",
+            "version": "1.0",
+            "theme_name_en_us": "mimi & Hasam cherry-blossom viewing",
+            "theme_name_ja_jp": "mimiとハッサムで桜のお花見",
+            "theme_description_en_us": "Kitten mimi and journey cat Hasam are enjoying cherry-blossom viewing party.\nThis theme was drawn at the request of \"sakura\" from eriko.",
+            "theme_description_ja_jp": "子猫のmimiと旅猫ハッサムが桜のお花見を楽しんでいます。\nこの着せかえはerikoさんからの「桜」のリクエストで描きました。",
+            "artist_name_en_us": "Yoshihisa Masaki",
+            "artist_name_ja_jp": "正木祥悠",
+            "theme_file_prefix": "mimi_sakura",
+            "image_types": [
+                "preview_background",
+                "background"
+            ],
+            "text_area_margins": [
+                {
+                    "background_aspect_ratio": "16:9",
+                    "top": 112,
+                    "bottom": 165,
+                    "left": 34,
+                    "right": 55
+                },
+                {
+                    "background_aspect_ratio": "19.5:9",
+                    "top": 125,
+                    "bottom": 164,
+                    "left": 37,
+                    "right": 42
+                }
+            ],
+            "primary_color": "#FFD1FF",
+            "accent_color": "#F586C7",
+            "text_foreground_color": "#4E4E4E",
+            "partition_index": 0
+        }
+    ],
+    "update": [],
+    "delete": []
+}
